@@ -1,7 +1,7 @@
 getgenv()._=
 "Join discord.gg/msgabv2t9Q | discord.gg/stando to get latest update ok bai | If you pay for this script you get scammed, this script is completely free ok"
 
-getgenv().Owner = "otopot0s"
+getgenv().Owner = "fwbanco"
 
 getgenv().Configuration = {
 ['Msg'] = 'Yare Yare Daze.', --When You Say [/e msg] It Makes All The Alts Say That Message
